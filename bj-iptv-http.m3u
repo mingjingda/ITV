@@ -5,7 +5,7 @@ http://www.mingjd.cn:7077/rtp/239.3.1.129:8008
 http://www.mingjd.cn:7077/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3综艺[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.172:8001
-#EXTINF:-1 ,CCTV-4中文国际[高清]
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4",CCTV-4中文国际[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.105:8092
 #EXTINF:-1 ,CCTV-4 中文国际 欧洲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.213:4220
