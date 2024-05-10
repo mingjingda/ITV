@@ -5,49 +5,49 @@ http://www.mingjd.cn:7077/rtp/239.3.1.129:8008
 http://www.mingjd.cn:7077/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3综艺[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4",CCTV-4中文国际[高清]
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.105:8092
-#EXTINF:-1 ,CCTV-4 中文国际 欧洲[高清]
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际 欧洲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.213:4220
 #EXTINF:-1 ,CCTV-4 中文国际 美洲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.214:4220
-#EXTINF:-1 ,CCTV-5体育[高清]
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",,CCTV-5体育[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.173:8001
 #EXTINF:-1 ,CCTV5+[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.130:8004
-#EXTINF:-1 ,CCTV-6电影[高清]
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6电影[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.174:8001
-#EXTINF:-1 ,CCTV-7国防军事[高清]
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7国防军事[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.61:8104
-#EXTINF:-1 ,CCTV-8电视剧[高清]
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8电视剧[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.175:8001
-#EXTINF:-1 ,CCTV-9纪录[高清]
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9纪录[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.62:8112
-#EXTINF:-1 ,CCTV-10科教[高清]
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10科教[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.63:8116
-#EXTINF:-1 ,CCTV-11戏曲[高清]
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11戏曲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.152:8120
-#EXTINF:-1 ,CCTV-12社会与法[高清]
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12社会与法[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.64:8124
-#EXTINF:-1 ,CCTV-13新闻[高清]
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13新闻[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.124:8128
-#EXTINF:-1 ,CCTV-14少儿[高清]
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14少儿[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.65:8132
-#EXTINF:-1 ,CCTV-15音乐[高清]
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15音乐[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.153:8136
-#EXTINF:-1 ,CCTV-16奥林匹克频道[高清]
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克频道[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.184:8001
-#EXTINF:-1 ,CCTV-17农业农村[高清]
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17农业农村[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.151:8144
 #EXTINF:-1 ,CCTV-16奥林匹克频道[4K]1
 http://www.mingjd.cn:7077/rtp/239.3.1.97:8001
 #EXTINF:-1 ,CCTV-16奥林匹克频道[4K]2
 http://www.mingjd.cn:7077/rtp/239.3.1.183:8001
-#EXTINF:-1 ,湖南卫视[高清]
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.132:8012
-#EXTINF:-1 ,浙江卫视[高清]
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.137:8036
-#EXTINF:-1 ,江苏卫视[高清]
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.135:8028
 #EXTINF:-1 ,东方卫视[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.136:8032
