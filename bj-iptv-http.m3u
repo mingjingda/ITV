@@ -7,9 +7,9 @@ http://www.mingjd.cn:7077/rtp/239.3.1.60:8084
 http://www.mingjd.cn:7077/rtp/239.3.1.172:8001
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际 欧洲[高清]
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4中文国际 欧洲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.213:4220
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际 美洲[高清]
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5体育[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.173:8001
@@ -37,8 +37,6 @@ http://www.mingjd.cn:7077/rtp/239.3.1.65:8132
 http://www.mingjd.cn:7077/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克频道[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克频道[4K]1
-http://www.mingjd.cn:7077/rtp/239.3.1.97:8001
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克频道[4K]2
 http://www.mingjd.cn:7077/rtp/239.3.1.183:8001
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17农业农村[高清]
@@ -88,6 +86,8 @@ http://www.mingjd.cn:7077/rtp/239.3.1.159:8000
 http://www.mingjd.cn:7077/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京卫视",BRTV影视[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京卫视",北京体育休闲[高清]
+http://www.mingjd.cn:7077/rtp/239.3.1.97:8001
 #EXTINF:-1 group-title="北京卫视",BRTV卡酷动画[高清]
 http://www.mingjd.cn:7077/rtp/239.3.1.189:8000
 #EXTINF:-1 group-title="北京卫视",BRTV冬奥纪实[高清]
