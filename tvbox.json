@@ -1,0 +1,21 @@
+{
+  "lives": [
+    {
+      "group": "央视频道",
+      "channels": [
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "http://mingjd.cn:7077/rtp/239.3.1.129:8008"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "http://mingjd.cn:7077/rtp/239.3.1.60:8084"
+          ]
+        }
+      ]
+    }
+  ]
+}
